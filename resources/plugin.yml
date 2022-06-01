@@ -1,0 +1,10 @@
+name: KMultiWorlds
+version: "1.0"
+author: KIZAFOX
+main: fr.kizafox.kmultiworlds.KMultiWorlds
+site: https://kizafox.fr
+
+commands:
+  kmultiworlds:
+    description: Manage worlds
+    aliases: [kmw]
